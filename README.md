@@ -1,4 +1,4 @@
-# Nbitcoin
+Nbitcoin
 Omnichain Bitcoin core protocol development and cross-chain asset interoperability infrastructure
 
 ## Popular Repositories
